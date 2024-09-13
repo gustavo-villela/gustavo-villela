@@ -7,17 +7,26 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gus-villela/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/gus-villela/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"   
  />
   </a>
-  <img width="12" /><a href="https://www.behance.net/gustavovillela2" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" height="25" alt="behance logo" />
+  <img width="12" />
+  <a href="https://www.behance.net/gustavovillela2" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the badge" height="25" alt="behance logo" />
   </a>
-  <img width="12" /><a href="#" onclick="copyToClipboard('267069646816018474')">
+  <img width="12" />
+  <a href="#" onclick="copyToClipboard('267069646816018474')" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 </div>
+
+<script>
+  function copyToClipboard(text) {
+    navigator.clipboard.writeText(text);
+    alert("ID do Discord copiado para a área de transferência!");
+  }
+</script>
 
 ###
 
