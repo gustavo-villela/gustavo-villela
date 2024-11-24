@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 Currently learning Game Dev (Unity), Front-end, HTML, CSS, JavaScripit<br>🎯 Goals: Full Stack | Game Developer</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 Currently learning .NET, C# , HTML, CSS, JavaScripit<br>🎯 Goals: .NET Dev | Game Dev</p>
 
 ###
 
